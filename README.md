@@ -14,7 +14,7 @@ A lightweight, configurable workflow engine built with .NET 8 and ASP.NET Core M
 
 1. **Clone and Build**
 ```
-git clone <repository-url>
+git clone https://github.com/DukeNukem1611/Infonetica-Assignment.git
 cd Infonetica.WorkflowEngine
 dotnet build
 ```
